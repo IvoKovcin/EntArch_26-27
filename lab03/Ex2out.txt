@@ -1,0 +1,53 @@
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+timestamp
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+timestamp
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+date + %T
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 14:58:47 UTC 2026 + %T
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 14:58:59 UTC 2026 + %T
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 14:59:30 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 14:59:52 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:00:00 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:08:58 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:09:00 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:09:03 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:09:56 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:09:59 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:10:02 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:10:04 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:11:27 UTC 2026
+You passec the number -  50 to the program ./lab03_exercise2.sh
+The maximum nuber of processes exceded
+Fri Oct 2 15:11:41 UTC 2026
