@@ -11,6 +11,11 @@ message(){
 cpu=$(nproc)
 echo "Current number of cores available - $cpu"
 
+if ! [[$1 =~ ^[0-9]+$ ]]; then					#regular expression to check for numeric input
+	echo "Error $1 is not a number"				#had to look it up online
+	exit 1
+fi
+
 
 if [ -z "$1" ]; then						#Checking if user inputs anything
 	echo "You did not pass any argumets to $0"	 	#letting them now a paramiter is required
